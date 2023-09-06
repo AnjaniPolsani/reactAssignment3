@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.bg {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-lg-bg.png');
+  height: 100vh;
+  background-size: cover;
+  height: 100%;
+}
+.cont1 {
+  display: flex;
+}
+.icon {
+  height: 60px;
+  width: 60px;
+}
